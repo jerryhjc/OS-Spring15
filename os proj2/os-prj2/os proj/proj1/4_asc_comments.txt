@@ -1,0 +1,183 @@
+This user program generates 3 random numbers and displays them as a Initial list. Then it sorts these numbers in ascending order and displays them as a sorted list.
+Hence, each time the program is executed numbers will be different. 
+The three random numbers are stored at address 161,162,163,164,165,166(each number stored twice)
+
+Branching instructions like 'jump' is for for looping in the program. 'Call' instruction is used to call a subroutine that displays all the required text.
+
+Sample output:
+
+Initial List:  57 23 14
+Sorted  List:  14 23 57
+
+Timer is not used hence changing timer parameter at the execution will not affect the output.
+
+User Program:
+
+1 //Load value 0 in AC
+0
+16 //Set Y=0
+23 // Call subroutine at address 110 to print "Initial List: "
+110
+8  //Generate the first random number
+7  //store it at 161
+161
+7  //store it at 164
+164
+9 //display first number
+1
+1 //load 32(ascii of space) in AC
+32
+9 //display space as a character
+2
+8 //get 2nd random number
+7 //store it in address 162
+162
+7  //store it in address 165
+165
+9  //display the 2nd number
+1
+1 //load 32(ascii of space) in AC
+32
+9  //display space as a character
+2
+8  //get 2nd random number
+7  //store it in address 163
+163
+7  //store it in address 166
+166
+9 //display the 3rd number
+1
+1  //load 1 in AC
+1  
+16  //set Y=1
+23  //Call subroutine at address 110 to display "Sorted List "
+110
+
+//Looping starts here
+
+2   //load 1st number in AC
+161
+21   //if zero jump to next number(line number: 58)
+58
+14  //if not zero then copy it to X
+26  //Decrement X
+15  //Copy decremented X to AC
+7   //store it in address 161
+161
+22  //jump to next number if AC not equal to 0
+58  
+2   //if AC=0 then load the intact 1st number in AC
+164
+9   //display number
+1
+1  //load 32 in AC for displaying space
+32
+9   //display space
+2
+2  //(line no. 58) load 2nd number in AC
+162
+21  //if zero jump to next number(line number: 77)
+77
+14  //if not zero then copy it to X
+26  //Decrement X
+15   //Copy decremented X to AC
+7   //store it in address 162
+162   
+22  //jump to next number if AC not equal to 0
+77
+2   //if AC=0 then load the intact 1st number in AC
+165
+9   //display number
+1
+1  //load 32 in AC for displaying space
+32
+9  //display space
+2
+2   //(line no. 77) load 3rd number
+163
+21  //jump to next if zero
+96  
+14  //copy value to X
+26  //decremrnt X
+15   //copy back to AC
+7    //Store it in location 163 again
+163 
+22    //if not zero then jump to next
+96
+2   //if zero take original 3rd no. to display
+166
+9  //display 3rd number
+1
+1  //load 'space' in AC
+32
+9  //display space
+2
+2//(next)looping back conditions check if 161,162,163 is not zero
+161
+22  //loop back if 161 is non zero
+39
+2   //load 2nd no in AC
+162
+22  //jump if it is not zero
+39
+2   //load 3rd number in AC
+163
+22  //jump back if it is not zero
+39
+50  //end execution
+.110  //logic to display the text
+1
+0
+14
+17
+21  //if Y=0 display "Initial List: " at location 130
+120
+4  //if Y=1 display "Sorted List: " at address 145
+145
+20
+122
+4
+130
+9  
+2
+25
+22
+113
+24
+.130  //Initial List ascii
+73
+110
+105
+116
+105
+97
+108
+32
+76
+105
+115
+116
+58
+32
+0
+.145  //Sorted List ascii
+10
+83
+111
+114
+116
+101
+100
+32
+32
+76
+105
+115
+116
+58
+32
+0
+.1000   //timer interrupts just returns
+30
+
+

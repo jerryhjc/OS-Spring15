@@ -1,0 +1,31 @@
+8   //load random number to X
+14
+9   //print num1 
+1
+1  //print space 
+32
+9
+2
+8  // load random number to Y
+16
+9  //print num2
+1
+1  //print space
+32
+9
+2
+23 	//call
+25 	 
+15  // add num1 and num2
+11
+9  // print sum
+1
+23 //call
+25 
+50 // End
+1  // print newline
+10
+9
+2
+24
+

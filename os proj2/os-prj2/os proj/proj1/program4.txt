@@ -1,0 +1,545 @@
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 124=|
+124
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 3
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 124=|
+124
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 4
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 124=|
+124
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 5
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 6
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 45=-
+45
+9   // Put 2
+2
+1   // Load 10=newline
+10  
+9   // Put 2
+2	//endline 7
+50  // End

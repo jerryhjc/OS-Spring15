@@ -1,0 +1,43 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+Customer	Customer.java	/^	Customer( int num, $/;"	m	class:Customer
+Customer	Customer.java	/^public class Customer implements Runnable$/;"	c
+cust_ready	Customer.java	/^	private Semaphore cust_ready;$/;"	f	class:Customer	file:
+leave_service_counter	Customer.java	/^	private Semaphore leave_service_counter;$/;"	f	class:Customer	file:
+max_capacity	Customer.java	/^	private Semaphore max_capacity;$/;"	f	class:Customer	file:
+mutex_greet	Customer.java	/^	private Semaphore mutex_greet;	$/;"	f	class:Customer	file:
+mutex_inner	Customer.java	/^	private Semaphore mutex_inner;$/;"	f	class:Customer	file:
+mutex_outer	Customer.java	/^	private Semaphore mutex_outer;$/;"	f	class:Customer	file:
+num	Customer.java	/^	private int num; \/\/- customer id.$/;"	f	class:Customer	file:
+run	Customer.java	/^	public void run()$/;"	m	class:Customer
+service_counter	Customer.java	/^	private Semaphore service_counter;$/;"	f	class:Customer	file:
+service_finished	Customer.java	/^	private ArrayList<Semaphore> service_finished;$/;"	f	class:Customer	file:
+service_needed	Customer.java	/^	private int service_needed; \/\/- service desired.$/;"	f	class:Customer	file:
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+MeasureTaker	MeasureTaker.java	/^public class MeasureTaker implements Runnable$/;"	c
+line_counts	MeasureTaker.java	/^	public ArrayList<Integer> line_counts = new ArrayList<Integer>();$/;"	f	class:MeasureTaker
+run	MeasureTaker.java	/^	public void run()$/;"	m	class:MeasureTaker
+PostOfficeSimulator	PostOfficeSimulator.java	/^public class PostOfficeSimulator$/;"	c
+cust_id	PostOfficeSimulator.java	/^	public static int cust_id;$/;"	f	class:PostOfficeSimulator
+cust_service	PostOfficeSimulator.java	/^	public static int cust_service;$/;"	f	class:PostOfficeSimulator
+line_count	PostOfficeSimulator.java	/^	public static int line_count;  \/\/可以注释掉$/;"	f	class:PostOfficeSimulator
+main	PostOfficeSimulator.java	/^	public static void main(String args[])$/;"	m	class:PostOfficeSimulator
+openForBusiness	PostOfficeSimulator.java	/^	public static boolean openForBusiness = false;  \/\/可以注释掉, measure 用的$/;"	f	class:PostOfficeSimulator
+serviceDisplay	PostOfficeSimulator.java	/^	public static String serviceDisplay(int u, int s)$/;"	m	class:PostOfficeSimulator
+serviceSleep	PostOfficeSimulator.java	/^	public static int serviceSleep(int s)$/;"	m	class:PostOfficeSimulator
+PostalWorker	PostalWorker.java	/^	PostalWorker( int num, $/;"	m	class:PostalWorker
+PostalWorker	PostalWorker.java	/^public class PostalWorker implements Runnable$/;"	c
+cust_ready	PostalWorker.java	/^	private Semaphore cust_ready;$/;"	f	class:PostalWorker	file:
+customer_id	PostalWorker.java	/^	private int customer_id;$/;"	f	class:PostalWorker	file:
+customer_service	PostalWorker.java	/^	private int customer_service;$/;"	f	class:PostalWorker	file:
+leave_service_counter	PostalWorker.java	/^	private Semaphore leave_service_counter;$/;"	f	class:PostalWorker	file:
+max_capacity	PostalWorker.java	/^	private Semaphore max_capacity;$/;"	f	class:PostalWorker	file:
+mutex_greet	PostalWorker.java	/^	private Semaphore mutex_greet;$/;"	f	class:PostalWorker	file:
+mutex_inner	PostalWorker.java	/^	private Semaphore mutex_inner;$/;"	f	class:PostalWorker	file:
+num	PostalWorker.java	/^	private int num;$/;"	f	class:PostalWorker	file:
+run	PostalWorker.java	/^	public void run()$/;"	m	class:PostalWorker
+service_counter	PostalWorker.java	/^	private Semaphore service_counter;$/;"	f	class:PostalWorker	file:
+service_finished	PostalWorker.java	/^	private ArrayList<Semaphore> service_finished;$/;"	f	class:PostalWorker	file:
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
